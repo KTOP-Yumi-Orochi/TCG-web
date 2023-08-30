@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Kusanagi;
+    font-display: swap;
+    src: url(./Kusanagi/Kusanagi.otf);
+}
+
+@font-face {
+    font-family: Roboto;
+    font-display: swap;
+    src: url(./Roboto/Roboto-Regular.ttf);
+}

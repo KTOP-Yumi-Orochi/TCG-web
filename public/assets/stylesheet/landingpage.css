@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    font-family: 'Kusanagi';
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+body, div {
+    margin: 0px;
+    padding: 0px;
+}

@@ -1,0 +1,9 @@
+.nft {
+  transform: scale(0.8);
+  transition: transform 300ms;
+}
+
+.activeNFT {
+  display: flex;
+  justify-content: center;
+}
